@@ -54,7 +54,7 @@ canonical_url: https://www.marcomontez.com/
 
 ## About me
 
-Hi! I'm Marco, an AI Engineer from Lisbon. I help companies develop and deploy AI prototypes to production through finding the best path to deployment, considering the current tech stack an ensuring it achieves the intended business impact. With 6+ year experience in different industries, banking, telecom, procurement, I focus on delivering working and impactful AI solutions, to bring organizations one step closer to realizing their AI goals.
+Hi! I'm Marco, an AI Engineer from Lisbon. I help companies develop and deploy AI prototypes to production through finding the best path to deployment, considering the current tech stack and ensuring it achieves the intended business impact. With 6+ year experience in different industries such as banking, telecom and procurement, my focus has been on delivering working and impactful AI solutions. I bring organizations one step closer to realizing their AI goals.
 
 My tech stack includes Python, AWS, Postgres, RAG, FastAPI, OpenAI, Claude, vector databases, vLLM, Datadog, Kubernetes, and custom LLM workflows for enterprise applications.
 

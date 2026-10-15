@@ -11,7 +11,7 @@ nav:
   #     - portfolio/projects/project-1.md
   #     - portfolio/projects/project-2.md
   # - Blog:
-  #   - blog/index.md 
+  #    - blog/index.md 
 
 theme:
   name: material
