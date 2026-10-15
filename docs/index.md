@@ -1,7 +1,7 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
+description: My personal website
+keywords: Marco Montez, AI engineer
 author: Marco Montez
 canonical_url: https://www.marcomontez.com/
 ---
@@ -10,22 +10,14 @@ canonical_url: https://www.marcomontez.com/
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
+  "name": "Marco Montez",
+  "url": "https://www.marcomontez.com",
   "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
     "https://www.linkedin.com/in/marcommontez",
-    "https://github.com/MarcoMontez",
-    "https://www.skool.com/@daveebbelaar"
+    "https://github.com/MarcoMontez"
   ],
-  "jobTitle": "Founder & CEO",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
-  },
+  "jobTitle": "AI Engineer",
 }
 </script>
 
